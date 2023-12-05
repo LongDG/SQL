@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "656e7f4e7fcb0c5ba8473f05"
+  },
+  "name": "Vu Thanh Tai",
+  "password": "admin",
+  "email": "thanhtai96nd@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "656e7fea7fcb0c5ba8473f06"
+  },
+  "name": "Vu Thanh Tai",
+  "password": "admin",
+  "email": "thanhtai96nd@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "656e7fea7fcb0c5ba8473f07"
+  },
+  "name": "Khoa",
+  "password": "admin123",
+  "email": "thanhtaivtt@toidicode.com"
+}]
